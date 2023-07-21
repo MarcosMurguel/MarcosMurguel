@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+muito+bem-vindo!;Me+chamo+Marcos+Murguel,+tenho+21+anos+de+idade!;Estudo+Matemática+na+Unicamp;Meus+projetos+permeiam+Análise+e+Ciência+de+Dados;Em+que+posso+te+ajudar+hoje?;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+muito+bem-vindo!;Estou+migrando+meus+projetos+para+o+GitHub!;Me+chamo+Marcos+Murguel,+tenho+21+anos+de+idade!;Estudo+Matemática+na+Unicamp;Meus+projetos+permeiam+Análise+e+Ciência+de+Dados;Em+que+posso+te+ajudar+hoje?;+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcosMurguel&custom_title=Minha%20atividade%20por%20aqui%20nos%20últimos%20dias&bg_color=0d1117&color=008B8B&line=008B8B&point=00FFFF&area=true&area_color=008B8B&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
